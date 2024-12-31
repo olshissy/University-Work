@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+    <head>
+        <title>Assignment 1a</title>
+        <script src="js/main.js"></script>
+    </head>
+    <body>
+        <div>
+            <h1>Room Booking Page</h1>
+            <h4>Time: <span id="timeNow"></span></h4>
+        </div>
+        <div>
+            <label for="inputTime">Start Time: </label> <select id="inputTime">
+                <option label="(empty)" value="0"></option>
+                <option label="8am" value="08:00"></option>
+                <option label="9am" value="09:00"></option>
+                <option label="10am" value="10:00"></option>
+                <option label="11am" value="11:00"></option>
+                <option label="12pm" value="12:00"></option>
+                <option label="1pm" value="13:00"></option>
+                <option label="2pm" value="14:00"></option>
+                <option label="3pm" value="15:00"></option>
+                <option label="4pm" value="16:00"></option>
+                <option label="5pm" value="17:00"></option>
+                    </select>
+        </div>
+        <br>
+        <div>
+            <label for="inputReason">Booking Reason: </label><input type="text" id="inputReason">
+        </div>
+        <br>
+        <div>
+            <label for="inputLabel">Booking text to be shown: </label><input type="text" id="inputLabel">
+        </div>
+        <br>
+        <div>
+        <button onclick="doBooking()">Book Room</button>
+        </div>
+        <br><br>
+        <div>
+            <h3>Room Booking Status</h3>
+            <div id="output">
+            <script>
+                updateDisplay();
+            </script>
+            </div>
+            <br>
+            <button onclick="clearAllBookings()">Clear All Bookings</button>
+        </div>
+    </body>
