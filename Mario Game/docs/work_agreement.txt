@@ -1,0 +1,29 @@
+Work Breakdown Agreement FIT2099
+
+who will be responsible for producing each deliverable (whether it is a part of the system, something that is needed within your team, or an externally-deliverable document),
+who will be responsible for testing or reviewing each deliverable, and
+the dates by which the deliverable, test, or review needs to be completed.
+Class diagrams and sequence diagrams for each requirement/task
+Philip 
+Task 1 - Reviewing and development (Monday 4th April 2022)
+Task 2 - Reviewing and development (Thursday 7th April 2022) 
+
+
+Amogha
+Task 3 - Reviewing and development (Monday 4th April 2022)
+Task 4 - Reviewing and development (Thursday 7th April 2022)
+ 
+Ollie 
+Task 5 - Reviewing and development (Monday 4th April 2022)
+Task 6- Reviewing and development (Thursday 7th April 2022)
+
+Everyone 
+Task 7  - Reviewing and development (Friday 8th April 2022)
+
+Review all tasks together (Saturday 9th April 2022) 
+
+Signing
+
+I accept this WBA
+I accept this WBA
+I accept this WBA
